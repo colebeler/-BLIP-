@@ -1,0 +1,20 @@
+文件: dog.jpg
+英文: a dog with its tongue out sitting in the grass
+中文: 一只狗伸出舌头坐在草地上
+----------------------------------------
+文件: pexels-eduard-kalesnik-2057421638-29222293.jpg
+英文: a man sitting on the side of a road next to a car
+中文: 一个男人坐在路边汽车旁边
+----------------------------------------
+文件: pexels-jakub-pabis-147246622-18082444.jpg
+英文: a little girl climbing on a climbing wall
+中文: 一个小女孩在攀岩墙上攀爬
+----------------------------------------
+文件: pexels-mographe-34645062.jpg
+英文: a living room with a couch, a table, and a television
+中文: 客厅配有沙发、桌子和电视
+----------------------------------------
+文件: pexels-silverkblack-36763394.jpg
+英文: a group of people standing in a park
+中文: 一群人站在公园里
+----------------------------------------
