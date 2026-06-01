@@ -1,4 +1,18 @@
-<img src="result_dog.jpg" alt="生成的描述结果" width="500">
+<p align="center">
+  <table>
+    <!-- 第一行：3张 -->
+    <tr>
+      <td align="center"><img src="result_pexels-eduard-kalesnik-2057421638-29222293.jpg" width="220"><br><small>示例1</small></td>
+      <td align="center"><img src="result_pexels-mographe-34645062.jpg" width="220"><br><small>示例2</small></td>
+      <td align="center"><img src="result_pexels-silverkblack-36763394.jpg" width="220"><br><small>示例3</small></td>
+    </tr>
+    <!-- 第二行：2张 -->
+    <tr>
+      <td align="center"><img src="result_dog.jpg" width="220"><br><small>示例4</small></td>
+      <td align="center"><img src="result_pexels-jakub-pabis-147246622-18082444.jpg" width="220"><br><small>示例5</small></td>
+    </tr>
+  </table>
+</p>
 # BLIP 图像自动描述生成
 
 基于 **Salesforce BLIP（Bootstrapping Language-Image Pre-training）** 的图像描述生成工具，支持单张/批量图片自动生成英文描述并翻译为中文，附带可视化结果。
